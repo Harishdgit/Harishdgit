@@ -7,6 +7,8 @@ public class TestPush {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hashnew code");
+		
+		System.out.println("MYNew changes check after merge");
 
 	}
 
